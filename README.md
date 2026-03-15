@@ -5,6 +5,7 @@ That includes the design, training and integration of Deep Learning models, and 
 
 I like learning new technologies, libraries, frameworks, and anything that can broaden my (rather limited, I must admit) view and improve my way of getting things done.
 I also like clean and efficient code, and I appreciate the beauty of an elegant and good software design (I don't mean I can get to it myself, but I do my best when I can).
+
 The more I learn, the larger my ignorance feels, so I am always eager to expand and refine my skillset.
 
 <!--
