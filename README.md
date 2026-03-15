@@ -1,4 +1,11 @@
-## Hi there 👋
+## 💬 About me
+
+I am a technological researcher and AI engineer specializing in Natural Language Processing with experience developing AI-based solutions.
+That includes the design, training and integration of Deep Learning models, and fine-tuning and integration of Large Language Models to solve a variety of problems and use-cases.
+
+I like learning new technologies, libraries, frameworks, and anything that can broaden my (rather limited, I must admit) view and improve my way of getting things done.
+I also like clean and efficient code, and I appreciate the beauty of an elegant and good software design (I don't mean I can get to it myself, but I do my best when I can).
+The more I learn, the larger my ignorance feels, so I am always eager to expand and refine my skillset.
 
 <!--
 **agarcia175/agarcia175** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
